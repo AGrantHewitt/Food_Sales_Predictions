@@ -15,7 +15,7 @@ The data was explored via inspection, cleaning, and visualization. Duplicates we
 Results:
 Number of Food Sales for Each Outlet 
 
-[Screen Shot 2022-04-28 at 11 57 09 PM](https://user-images.githubusercontent.com/96153312/165883292-461985c2-7706-46e7-9d7c-1bda8a6dcc6e.png)
+![Screen Shot 2022-04-28 at 11 57 09 PM](https://user-images.githubusercontent.com/96153312/165883292-461985c2-7706-46e7-9d7c-1bda8a6dcc6e.png)
 
 In the graph above, we see that the most food sales are coming from supermarket type 3. We should focus on why this outlet has so many sales. is it because there are more of these outlets? 
 
